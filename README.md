@@ -1,5 +1,9 @@
 # BTC trend bot — make.fun btc-race-24h-20261118-1444
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/denox035/btc-race-24h-20261118/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/denox035/btc-race-24h-20261118/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 A long-only trading bot for Coinbase Wrapped BTC (cbBTC) on 1-minute
 on-chain bars, built for the make.fun bounty "Race a BTC trading bot live
 for 24 hours".
@@ -57,3 +61,7 @@ node cli/makefun.mjs grade-local --kit <kit-dir> --bot <this-repo> --driver dock
 - `main.py` — the bot (entrypoint)
 - `README.md` — this file
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6qrh79v5&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
